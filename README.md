@@ -209,7 +209,7 @@ df = load_kaggle_url_dataset("datasets/kaggle_phishing_urls.csv")
 
 **Shivam Sagore**
 - GitHub: [@9xm-shivam](https://github.com/9xm-shivam)
-- LinkedIn: [linkedin.com/shivamsagore](https://linkedin.com/shivamsagore)
+- LinkedIn: [linkedin.com/shivamsagore](https://www.linkedin.com/in/shivam-sagore)
 
 ---
 
