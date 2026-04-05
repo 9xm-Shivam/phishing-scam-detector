@@ -3,7 +3,6 @@
 ![Python](https://img.shields.io/badge/Python-3.10+-blue?logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-3.0-black?logo=flask)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-1.4-orange?logo=scikitlearn)
-![License](https://img.shields.io/badge/License-MIT-green)
 
 > An AI-powered web application that detects **phishing URLs** and **scam emails/messages** in real time using machine learning models trained on cybersecurity datasets.
 
@@ -215,7 +214,7 @@ df = load_kaggle_url_dataset("datasets/kaggle_phishing_urls.csv")
 
 ## 📄 License
 
-MIT License — free to use, modify, and distribute.
+ free to use, modify, and distribute.
 
 ---
 
